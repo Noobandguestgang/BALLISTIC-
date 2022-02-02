@@ -1,8 +1,9 @@
 stage
-spooky
-philly
-limo
-mall
-mallEvil
 school
 schoolEvil
+4chan
+alley
+alley-balls
+better
+better-balls
+hungry
